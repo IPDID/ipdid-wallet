@@ -12,7 +12,7 @@ Features
 # CLI: DID generator and QR Code
 
 A Client for IPDID.
-* IPDID is W3 DID compliance Identify System which can run to create DID and register on IPFS and SKALE network blockchain.
+* IPDID is W3 DID compliant Identify System which can run to create DID and register on IPFS and SKALE network blockchain.
 * Utilize to generate QR Code and Verifiable Credential (VC) for IPDID Wallet to scan.
 * Install IPDID from node package ipdid.
 
