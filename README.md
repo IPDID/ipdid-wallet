@@ -1,17 +1,20 @@
 # IPDID Wallet
 
-Download [Expo Go](https://expo.io/client) to run this application on iOS or Android device.
+A Client for IPDID.
 
-* Features
-** Scan DID QR code 
-** Resolving DID to DID Document with W3C DID standard
-** Display Credential context, such as Alumni of the school which School issue the credential.
+* Download [Expo Go](https://expo.io/client) to run this application on iOS or Android device.
 
-# DID generator and QR Code
+Features
+* Scan DID QR code 
+* Resolving DID to DID Document with W3C DID standard
+* Display Credential context, such as Alumni of the school which School issue the credential.
 
-* IPDID DID complainted Indetify System can run to create DID and register on IPFS and SKALE network blockchain.
-* Utily to generate QR Code and Verfiable Credential (VC) for IPDID Wallet to scan.
-* Install IPDID from npm package [IPDID](https://www.npmjs.com/package/ipdid) 
+# CLI: DID generator and QR Code
+
+A Client for IPDID.
+* IPDID is W3 DID compliance Identify System which can run to create DID and register on IPFS and SKALE network blockchain.
+* Utilize to generate QR Code and Verifiable Credential (VC) for IPDID Wallet to scan.
+* Install IPDID from node package ipdid.
 
 # Open Source
 
@@ -22,4 +25,7 @@ Welcome to fork and contribute. Online editing on [Expo Snack](https://snack.exp
 # MIT License
 
 # Deployment
-will deploy on Google Play or Apple App Store with it release
+
+* deploy to Expo store: https://expo.io/@mingderwang/projects/snack-25551854-ea12-4193-a17f-cac55562477e
+
+Will be deployed on Google Play or Apple App Store when it is final released.
