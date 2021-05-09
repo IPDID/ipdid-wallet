@@ -24,8 +24,8 @@ Welcome to fork and contribute. Online editing on [Expo Snack](https://snack.exp
 
 # MIT License
 
-# Deployment
+# Installation
 
-* deploy to Expo store: https://expo.io/@mingderwang/projects/snack-25551854-ea12-4193-a17f-cac55562477e
+* The app is deployed to Expo store: https://expo.io/@mingderwang/projects/snack-25551854-ea12-4193-a17f-cac55562477e
 
 Will be deployed on Google Play or Apple App Store when it is final released.
