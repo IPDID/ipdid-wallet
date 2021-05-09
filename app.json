@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A Client for IPDID.\nIPDID is W3 DID compliance Identify System which can run to create DID and register on IPFS and SKALE network blockchain.\nUtilize to generate QR Code and Verifiable Credential (VC) for IPDID Wallet to scan.\nInstall IPDID from node package: ipdid.",
+    "githubUrl": "https://github.com/IPDID/ipdid-wallet"
   }
 }
