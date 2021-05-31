@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 const apisauce = require('apisauce')
 // define the api
 const api = apisauce.create({
-  baseURL: 'https://universal-resolver-driver-frankwang95174.vercel.app',
+  baseURL: 'https://universal-resolver-driver-henna.vercel.app',
 });
 
 import {
